@@ -12,5 +12,3 @@ function insert_Row() {
     cell1.textContent = "New Cell1";
     cell2.textContent = "New Cell2";
 }
-
-}
